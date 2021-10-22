@@ -46,12 +46,15 @@ article {
 }
 .icon-music {
   flex: 1;
+  /* new css added to make it work with chrome */
+  max-width: max-content;
 }
 
 .plan {
   /* margin-right: 10rem; */
   padding-top: 10px;
-  margin-right: 90px;
+  margin-right: 60px;
+  margin-left: 30px;
 }
 .plan-duration {
   font-weight: 900;
