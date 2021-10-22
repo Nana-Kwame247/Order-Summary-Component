@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  max-width: 1440px;
 }
 
 body {
@@ -118,7 +119,7 @@ article {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media (max-width: 600px) {
+@media (max-width: 375px) {
   body {
     background-image: url("Images/pattern-background-mobile.svg");
     background-color: hsl(225, 100%, 98%);
