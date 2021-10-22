@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Images/screenshot1.png)
+[![Screenshot1.png](https://i.postimg.cc/zXX5vqVt/Screenshot1.png)](https://postimg.cc/MX4gr20V)
 
 ### Links
 
