@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Nana-Kwame247/order-summary-component-frontendmentor]
-- Live Site URL: [https://frosty-shockley-391408.netlify.app/#]
+- Solution URL: [https://github.com/Nana-Kwame247/Order-Summary-Component]
+- Live Site URL: [https://nana-kwame247.github.io/Order-Summary-Component/]
 
 ## My process
 
