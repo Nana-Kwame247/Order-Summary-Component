@@ -21,7 +21,8 @@ article {
 }
 
 .hero-image {
-  width: 28rem;
+  max-width: 28rem;
+  width: 100%;
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
 }
@@ -44,6 +45,7 @@ article {
   height: 4rem;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .icon-music {
   flex: 1;
